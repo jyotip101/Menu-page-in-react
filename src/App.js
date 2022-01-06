@@ -1,10 +1,10 @@
 import './App.css'
-import Reviews from './components/Reviews'
+import Accordion from './componentes/Accordion'
 
 function App() {
   return (
     <div className='App'>
-      <Reviews />
+      <Accordion />
       <br />
       <footer>
         created by - <a href=''>Jyoti-p</a>
