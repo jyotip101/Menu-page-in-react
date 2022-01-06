@@ -1,8 +1,9 @@
-<h1 align="center"> </h1>
+<h1 align="center">Accordion of Questions </h1>
    
+   In this project, I learn how to show and hide content using && operator in reactjs
 <!-- DEMO -->
  
-### Demo:-
+### [Demo](https://jyotip101.github.io/accordion-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
