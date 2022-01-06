@@ -1,9 +1,8 @@
-<h1 align="center">Accordion of Questions </h1>
-   
-   In this project, I learn how to show and hide content using && operator in reactjs
+<h1 align="center">Menu Page </h1>
+    
 <!-- DEMO -->
  
-### [Demo](https://jyotip101.github.io/accordion-in-react/)
+### Demo
 
 <!-- TABLE OF CONTENTS -->
 
@@ -17,14 +16,11 @@
 
 ## Overview
 
-![Accordion-App](https://user-images.githubusercontent.com/66724598/148348578-09d7677a-7e8c-4e7f-81ac-ff7c1cd7b9b3.png)
-
-![Accordion-App-mobile](https://user-images.githubusercontent.com/66724598/148348584-a24617db-c238-44ff-bec5-8e28ae09c7c1.png)
-
 ### Built With
 
 - [React](https://reactjs.org/)
-- [Google icon](https://fonts.google.com/icons)
+- icon are from [Google icon](https://fonts.google.com/icons)
+- Imgaes are from [unsplash](https://unsplash.com/)
 
 ## How To Use
 
