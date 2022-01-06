@@ -7,7 +7,8 @@ function App() {
       <Accordion />
       <br />
       <footer>
-        created by - <a href=''>Jyoti-p</a>
+        created by -
+        <a href='https://github.com/jyotip101/accordion-in-react'>Jyoti-p</a>
       </footer>
     </div>
   )

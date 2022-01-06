@@ -17,6 +17,10 @@
 
 ## Overview
 
+![Accordion-App](https://user-images.githubusercontent.com/66724598/148348578-09d7677a-7e8c-4e7f-81ac-ff7c1cd7b9b3.png)
+
+![Accordion-App-mobile](https://user-images.githubusercontent.com/66724598/148348584-a24617db-c238-44ff-bec5-8e28ae09c7c1.png)
+
 ### Built With
 
 - [React](https://reactjs.org/)
