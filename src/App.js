@@ -1,8 +1,10 @@
 import './App.css'
+import Menu from './componente/Menu'
 
 function App() {
   return (
     <div className='App'>
+      <Menu />
       <br />
       <footer>
         created by -

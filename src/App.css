@@ -13,12 +13,13 @@
   box-sizing: border-box;
 }
 body {
-  background-color: var(--main-color);
+  background-color: var(--bg-color);
   font-family: monospace;
+  color: var(--font-color);
 }
 
 footer a {
-  color: var(--shadow-color);
+  color: var(--main-color);
 }
 .App {
   margin: 2px auto;
