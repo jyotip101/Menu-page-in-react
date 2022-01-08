@@ -2,7 +2,7 @@
     
 <!-- DEMO -->
  
-### Demo
+### [Demo](https://jyotip101.github.io/menu-page-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
@@ -16,10 +16,13 @@
 
 ## Overview
 
+![Menu-Page-App](https://user-images.githubusercontent.com/66724598/148646635-2af8c898-0157-4e40-a5fd-1043495d48fc.png)
+
+![Menu-Page-App-mobile](https://user-images.githubusercontent.com/66724598/148646641-9bde5746-306b-45bd-ab3d-4d313d6ade45.png)
+
 ### Built With
 
 - [React](https://reactjs.org/)
-- icon are from [Google icon](https://fonts.google.com/icons)
 - Imgaes are from [unsplash](https://unsplash.com/)
 
 ## How To Use
