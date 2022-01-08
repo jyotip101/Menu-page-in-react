@@ -1,13 +1,21 @@
 import React from 'react'
 
-const Navbar = ({ category }) => {
+const Navbar = ({ categories, selectCategory }) => {
   return (
     <>
       <header className='navbar'>
         <ul className='links'>
-          {/* {category.map(item => {
-            const {}
-          })} */}
+          {categories[0].map((item, index) => {
+            return (
+              <button
+                key={index}
+                onClick={() => selectCategory(item)}
+                className='link'
+              >
+                {item}
+              </button>
+            )
+          })}
         </ul>
       </header>
     </>
