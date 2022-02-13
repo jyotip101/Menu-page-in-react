@@ -2,7 +2,7 @@
     
 <!-- DEMO -->
  
-### [Demo](https://jyotip101.github.io/menu-page-in-react/)
+### [Demo](https://thejyotipatel.github.io/menu-page-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
